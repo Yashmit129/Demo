@@ -1,1 +1,2 @@
 git init # Initialize Into a Git Repo
+rm -rf .git
